@@ -1,2 +1,3 @@
-# ReleaseElectron_SKCT2
-테스트 목적 샘플
+# ReleaseElectron_SKCT
+
+SKCT 온라인 인적성검사
